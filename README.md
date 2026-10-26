@@ -1,4 +1,4 @@
-# PACC — Executable Partial Review Source
+# Executable Partial Review Source
 
 [中文说明](README_zh.md) · [Reviewer guide](docs/REVIEW_GUIDE.md) · [Method map](docs/METHOD_MAP.md) · [Disclosure](DISCLOSURE.md)
 
