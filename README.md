@@ -1,6 +1,6 @@
 # Executable Partial Review Source
 
-[中文说明](README_zh.md) · [Reviewer guide](docs/REVIEW_GUIDE.md) · [Method map](docs/METHOD_MAP.md) · [Disclosure](DISCLOSURE.md)
+ [Reviewer guide](docs/REVIEW_GUIDE.md) · [Method map](docs/METHOD_MAP.md) · [Disclosure](DISCLOSURE.md)
 
 This is a **partial source release** of the PACC reference control layer. The public controller, evidence comparator, diagnostic information-selection policy and fixed-action scoring foundation can be inspected and exercised without a model. This is not a snapshot of the undistributed experimental system.
 
