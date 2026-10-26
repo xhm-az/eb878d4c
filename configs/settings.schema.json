@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Public mode selection only; private settings are not distributed",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["variant"],
+  "properties": {
+    "variant": {
+      "enum": ["vanilla", "eea_only", "retry_without_diagnosis", "pacc"]
+    }
+  }
+}

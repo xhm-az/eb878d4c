@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pacc-review"
+version = "0.4.1"
+description = "Partial source release for inspection of PACC control logic"
+requires-python = ">=3.10"
+readme = "README.md"
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["src"]
